@@ -1,0 +1,1 @@
+console.log('Hope you are going to succeed in this course')
